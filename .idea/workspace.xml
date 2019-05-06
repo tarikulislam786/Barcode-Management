@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6302ac6e-0c33-4b1b-b707-05ffa34cbe84" name="Default" comment="" />
+    <ignored path="usms.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="usms" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="barcode.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/barcode.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.1470585">
+              <caret line="118" column="65" selection-start-line="118" selection-start-column="65" selection-end-line="118" selection-end-column="65" />
+              <folding>
+                <marker date="1528407149030" expanded="true" signature="332:378" placeholder="SELECT role ..users..." />
+                <marker date="1528407149030" expanded="true" signature="1408:1656" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="barcode-edit.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/barcode-edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.05235602">
+              <caret line="188" column="65" selection-start-line="188" selection-start-column="65" selection-end-line="188" selection-end-column="65" />
+              <folding>
+                <marker date="1528407193464" expanded="true" signature="332:378" placeholder="SELECT role ..users..." />
+                <marker date="1528407193464" expanded="true" signature="1084:1216" placeholder="SELECT id, b..barcodeDetails..." />
+                <marker date="1528407193464" expanded="true" signature="3366:3422" placeholder="Update barco..." />
+                <marker date="1528407193464" expanded="true" signature="3968:4158" placeholder="Update barco..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dbconnect.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dbconnect.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="barcode-form-search.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/barcode-form-search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.7352941">
+              <caret line="112" column="65" selection-start-line="112" selection-start-column="65" selection-end-line="112" selection-end-column="65" />
+              <folding>
+                <marker date="1528407096384" expanded="true" signature="801:1049" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="barcode-manage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/barcode-manage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="169" column="85" selection-start-line="169" selection-start-column="85" selection-end-line="169" selection-end-column="85" />
+              <folding>
+                <marker date="1528402175256" expanded="true" signature="332:378" placeholder="SELECT role ..users..." />
+                <marker date="1528402175256" expanded="true" signature="2022:2621" placeholder="..." />
+                <marker date="1528402175256" expanded="true" signature="2051:2621" placeholder="..." />
+                <marker date="1528402175256" expanded="true" signature="2644:2762" placeholder="SELECT id, b..barcodeDetails..." />
+                <marker date="1528402175256" expanded="true" signature="2984:3012" placeholder="SELECT * fro..barcodeDetails..." />
+                <marker date="1528402175256" expanded="true" signature="3618:4811" placeholder="..." />
+                <marker date="1528402175256" expanded="false" signature="3667:3677" placeholder="..." />
+                <marker date="1528402175256" expanded="false" signature="3743:3753" placeholder="..." />
+                <marker date="1528402175256" expanded="false" signature="3827:3837" placeholder="..." />
+                <marker date="1528402175256" expanded="false" signature="3911:3921" placeholder="..." />
+                <marker date="1528402175256" expanded="false" signature="3995:4005" placeholder="..." />
+                <marker date="1528402175256" expanded="false" signature="4080:4090" placeholder="..." />
+                <marker date="1528402175256" expanded="false" signature="4212:4222" placeholder="..." />
+                <marker date="1528402175256" expanded="true" signature="4223:4475" placeholder="..." />
+                <marker date="1528402175256" expanded="true" signature="4310:4440" placeholder="..." />
+                <marker date="1528402175256" expanded="false" signature="4524:4534" placeholder="..." />
+                <marker date="1528402175256" expanded="true" signature="4535:4793" placeholder="..." />
+                <marker date="1528402175256" expanded="true" signature="4638:4771" placeholder="..." />
+                <marker date="1528402175256" expanded="true" signature="4871:6007" placeholder="..." />
+                <marker date="1528402175256" expanded="false" signature="4977:4987" placeholder="..." />
+                <marker date="1528402175256" expanded="false" signature="5061:5071" placeholder="..." />
+                <marker date="1528402175256" expanded="false" signature="5145:5155" placeholder="..." />
+                <marker date="1528402175256" expanded="false" signature="5229:5239" placeholder="..." />
+                <marker date="1528402175256" expanded="false" signature="5314:5324" placeholder="..." />
+                <marker date="1528402175256" expanded="true" signature="5438:5690" placeholder="..." />
+                <marker date="1528402175256" expanded="true" signature="5525:5655" placeholder="..." />
+                <marker date="1528402175256" expanded="true" signature="5731:5989" placeholder="..." />
+                <marker date="1528402175256" expanded="true" signature="5834:5967" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readRecords.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/ajax/Barcodes/readRecords.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="42" column="76" selection-start-line="42" selection-start-column="76" selection-end-line="42" selection-end-column="76" />
+              <folding>
+                <marker date="1528399668583" expanded="true" signature="204:717" placeholder="..." />
+                <marker date="1528399668583" expanded="true" signature="215:717" placeholder="..." />
+                <marker date="1528399668583" expanded="true" signature="733:846" placeholder="SELECT id, b..barcodeDetails..." />
+                <marker date="1528399668583" expanded="true" signature="1064:1092" placeholder="SELECT * fro..barcodeDetails..." />
+                <marker date="1528399668583" expanded="true" signature="1457:2632" placeholder="..." />
+                <marker date="1528399668583" expanded="false" signature="1494:1504" placeholder="..." />
+                <marker date="1528399668583" expanded="false" signature="1570:1580" placeholder="..." />
+                <marker date="1528399668583" expanded="false" signature="1654:1664" placeholder="..." />
+                <marker date="1528399668583" expanded="false" signature="1738:1748" placeholder="..." />
+                <marker date="1528399668583" expanded="false" signature="1822:1832" placeholder="..." />
+                <marker date="1528399668583" expanded="false" signature="1907:1917" placeholder="..." />
+                <marker date="1528399668583" expanded="false" signature="2039:2049" placeholder="..." />
+                <marker date="1528399668583" expanded="true" signature="2050:2302" placeholder="..." />
+                <marker date="1528399668583" expanded="true" signature="2137:2267" placeholder="..." />
+                <marker date="1528399668583" expanded="false" signature="2351:2361" placeholder="..." />
+                <marker date="1528399668583" expanded="true" signature="2362:2620" placeholder="..." />
+                <marker date="1528399668583" expanded="true" signature="2465:2598" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readRecords.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../olms/admin/ajax/Authors/readRecords.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+              <folding>
+                <marker date="1526667221448" expanded="true" signature="203:380" placeholder="..." />
+                <marker date="1526667221448" expanded="true" signature="214:380" placeholder="..." />
+                <marker date="1526667221448" expanded="true" signature="396:479" placeholder="SELECT `auth..." />
+                <marker date="1526667221448" expanded="true" signature="695:716" placeholder="SELECT * fro..authors..." />
+                <marker date="1526667221448" expanded="true" signature="1054:1660" placeholder="..." />
+                <marker date="1526667221448" expanded="true" signature="1183:1407" placeholder="..." />
+                <marker date="1526667221448" expanded="true" signature="1272:1384" placeholder="..." />
+                <marker date="1526667221448" expanded="true" signature="1436:1648" placeholder="..." />
+                <marker date="1526667221448" expanded="true" signature="1523:1638" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="120" column="157" selection-start-line="120" selection-start-column="157" selection-end-line="120" selection-end-column="157" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="barcode-search.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/barcode-search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+              <folding>
+                <marker date="1528397745569" expanded="true" signature="403:462" placeholder="SELECT barco..barcodeDetails..." />
+                <marker date="1528397745569" expanded="true" signature="1485:1616" placeholder="SELECT barco..barcodeDetails..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/../smlo/admin/student-search.php" />
+        <option value="$PROJECT_DIR$/../olms/admin/book-issue.php" />
+        <option value="$PROJECT_DIR$/../olms/admin/header.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/barcode-search.php" />
+        <option value="$PROJECT_DIR$/dbconnect.php" />
+        <option value="$PROJECT_DIR$/admin/barcode-search.php" />
+        <option value="$PROJECT_DIR$/admin/js/script.js" />
+        <option value="$PROJECT_DIR$/admin/ajax/Barcodes/readRecords.php" />
+        <option value="$PROJECT_DIR$/admin/barcode-manage.php" />
+        <option value="$PROJECT_DIR$/admin/barcode-form-search.php" />
+        <option value="$PROJECT_DIR$/admin/barcode.php" />
+        <option value="$PROJECT_DIR$/admin/barcode-edit.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="usms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../smlo" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\usms" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6302ac6e-0c33-4b1b-b707-05ffa34cbe84" name="Default" comment="" />
+      <created>1528017649389</created>
+      <option name="number" value="Default" />
+      <updated>1528017649389</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18980798" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/barcode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1528407149030" expanded="true" signature="332:378" placeholder="SELECT role ..users..." />
+            <marker date="1528407149030" expanded="true" signature="1408:1656" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/barcode-edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="217" column="43" selection-start-line="217" selection-start-column="43" selection-end-line="217" selection-end-column="43" />
+          <folding>
+            <marker date="1528407193464" expanded="true" signature="332:378" placeholder="SELECT role ..users..." />
+            <marker date="1528407193464" expanded="true" signature="1084:1216" placeholder="SELECT id, b..barcodeDetails..." />
+            <marker date="1528407193464" expanded="true" signature="3366:3422" placeholder="Update barco..." />
+            <marker date="1528407193464" expanded="true" signature="3968:4158" placeholder="Update barco..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/barcode-form-search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1528407096384" expanded="true" signature="801:1049" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/barcode-manage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1528402175256" expanded="true" signature="332:378" placeholder="SELECT role ..users..." />
+            <marker date="1528402175256" expanded="true" signature="2022:2621" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="2051:2621" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="2644:2762" placeholder="SELECT id, b..barcodeDetails..." />
+            <marker date="1528402175256" expanded="true" signature="2984:3012" placeholder="SELECT * fro..barcodeDetails..." />
+            <marker date="1528402175256" expanded="true" signature="3618:4811" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="3667:3677" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="3743:3753" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="3827:3837" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="3911:3921" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="3995:4005" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="4080:4090" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="4212:4222" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="4223:4475" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="4310:4440" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="4524:4534" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="4535:4793" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="4638:4771" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="4871:6007" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="4977:4987" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="5061:5071" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="5145:5155" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="5229:5239" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="5314:5324" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="5438:5690" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="5525:5655" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="5731:5989" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="5834:5967" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/ajax/Barcodes/readRecords.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="76" selection-start-line="42" selection-start-column="76" selection-end-line="42" selection-end-column="76" />
+          <folding>
+            <marker date="1528399668583" expanded="true" signature="204:717" placeholder="..." />
+            <marker date="1528399668583" expanded="true" signature="215:717" placeholder="..." />
+            <marker date="1528399668583" expanded="true" signature="733:846" placeholder="SELECT id, b..barcodeDetails..." />
+            <marker date="1528399668583" expanded="true" signature="1064:1092" placeholder="SELECT * fro..barcodeDetails..." />
+            <marker date="1528399668583" expanded="true" signature="1457:2632" placeholder="..." />
+            <marker date="1528399668583" expanded="false" signature="1494:1504" placeholder="..." />
+            <marker date="1528399668583" expanded="false" signature="1570:1580" placeholder="..." />
+            <marker date="1528399668583" expanded="false" signature="1654:1664" placeholder="..." />
+            <marker date="1528399668583" expanded="false" signature="1738:1748" placeholder="..." />
+            <marker date="1528399668583" expanded="false" signature="1822:1832" placeholder="..." />
+            <marker date="1528399668583" expanded="false" signature="1907:1917" placeholder="..." />
+            <marker date="1528399668583" expanded="false" signature="2039:2049" placeholder="..." />
+            <marker date="1528399668583" expanded="true" signature="2050:2302" placeholder="..." />
+            <marker date="1528399668583" expanded="true" signature="2137:2267" placeholder="..." />
+            <marker date="1528399668583" expanded="false" signature="2351:2361" placeholder="..." />
+            <marker date="1528399668583" expanded="true" signature="2362:2620" placeholder="..." />
+            <marker date="1528399668583" expanded="true" signature="2465:2598" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../olms/admin/ajax/Authors/readRecords.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <marker date="1526667221448" expanded="true" signature="203:380" placeholder="..." />
+            <marker date="1526667221448" expanded="true" signature="214:380" placeholder="..." />
+            <marker date="1526667221448" expanded="true" signature="396:479" placeholder="SELECT `auth..." />
+            <marker date="1526667221448" expanded="true" signature="695:716" placeholder="SELECT * fro..authors..." />
+            <marker date="1526667221448" expanded="true" signature="1054:1660" placeholder="..." />
+            <marker date="1526667221448" expanded="true" signature="1183:1407" placeholder="..." />
+            <marker date="1526667221448" expanded="true" signature="1272:1384" placeholder="..." />
+            <marker date="1526667221448" expanded="true" signature="1436:1648" placeholder="..." />
+            <marker date="1526667221448" expanded="true" signature="1523:1638" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="120" column="157" selection-start-line="120" selection-start-column="157" selection-end-line="120" selection-end-column="157" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/barcode-search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <marker date="1528397745569" expanded="true" signature="403:462" placeholder="SELECT barco..barcodeDetails..." />
+            <marker date="1528397745569" expanded="true" signature="1485:1616" placeholder="SELECT barco..barcodeDetails..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="90" column="45" selection-start-line="90" selection-start-column="45" selection-end-line="90" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="89" column="21" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="92" column="45" selection-start-line="92" selection-start-column="45" selection-end-line="92" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13089006">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/barcode-search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <marker date="1528397745569" expanded="true" signature="403:462" placeholder="SELECT barco..barcodeDetails..." />
+            <marker date="1528397745569" expanded="true" signature="1485:1616" placeholder="SELECT barco..barcodeDetails..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="120" column="157" selection-start-line="120" selection-start-column="157" selection-end-line="120" selection-end-column="157" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../olms/admin/ajax/Authors/readRecords.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <marker date="1526667221448" expanded="true" signature="203:380" placeholder="..." />
+            <marker date="1526667221448" expanded="true" signature="214:380" placeholder="..." />
+            <marker date="1526667221448" expanded="true" signature="396:479" placeholder="SELECT `auth..." />
+            <marker date="1526667221448" expanded="true" signature="695:716" placeholder="SELECT * fro..authors..." />
+            <marker date="1526667221448" expanded="true" signature="1054:1660" placeholder="..." />
+            <marker date="1526667221448" expanded="true" signature="1183:1407" placeholder="..." />
+            <marker date="1526667221448" expanded="true" signature="1272:1384" placeholder="..." />
+            <marker date="1526667221448" expanded="true" signature="1436:1648" placeholder="..." />
+            <marker date="1526667221448" expanded="true" signature="1523:1638" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/ajax/Barcodes/readRecords.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="76" selection-start-line="42" selection-start-column="76" selection-end-line="42" selection-end-column="76" />
+          <folding>
+            <marker date="1528399668583" expanded="true" signature="204:717" placeholder="..." />
+            <marker date="1528399668583" expanded="true" signature="215:717" placeholder="..." />
+            <marker date="1528399668583" expanded="true" signature="733:846" placeholder="SELECT id, b..barcodeDetails..." />
+            <marker date="1528399668583" expanded="true" signature="1064:1092" placeholder="SELECT * fro..barcodeDetails..." />
+            <marker date="1528399668583" expanded="true" signature="1457:2632" placeholder="..." />
+            <marker date="1528399668583" expanded="false" signature="1494:1504" placeholder="..." />
+            <marker date="1528399668583" expanded="false" signature="1570:1580" placeholder="..." />
+            <marker date="1528399668583" expanded="false" signature="1654:1664" placeholder="..." />
+            <marker date="1528399668583" expanded="false" signature="1738:1748" placeholder="..." />
+            <marker date="1528399668583" expanded="false" signature="1822:1832" placeholder="..." />
+            <marker date="1528399668583" expanded="false" signature="1907:1917" placeholder="..." />
+            <marker date="1528399668583" expanded="false" signature="2039:2049" placeholder="..." />
+            <marker date="1528399668583" expanded="true" signature="2050:2302" placeholder="..." />
+            <marker date="1528399668583" expanded="true" signature="2137:2267" placeholder="..." />
+            <marker date="1528399668583" expanded="false" signature="2351:2361" placeholder="..." />
+            <marker date="1528399668583" expanded="true" signature="2362:2620" placeholder="..." />
+            <marker date="1528399668583" expanded="true" signature="2465:2598" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/barcode-manage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="169" column="85" selection-start-line="169" selection-start-column="85" selection-end-line="169" selection-end-column="85" />
+          <folding>
+            <marker date="1528402175256" expanded="true" signature="332:378" placeholder="SELECT role ..users..." />
+            <marker date="1528402175256" expanded="true" signature="2022:2621" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="2051:2621" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="2644:2762" placeholder="SELECT id, b..barcodeDetails..." />
+            <marker date="1528402175256" expanded="true" signature="2984:3012" placeholder="SELECT * fro..barcodeDetails..." />
+            <marker date="1528402175256" expanded="true" signature="3618:4811" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="3667:3677" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="3743:3753" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="3827:3837" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="3911:3921" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="3995:4005" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="4080:4090" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="4212:4222" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="4223:4475" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="4310:4440" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="4524:4534" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="4535:4793" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="4638:4771" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="4871:6007" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="4977:4987" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="5061:5071" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="5145:5155" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="5229:5239" placeholder="..." />
+            <marker date="1528402175256" expanded="false" signature="5314:5324" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="5438:5690" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="5525:5655" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="5731:5989" placeholder="..." />
+            <marker date="1528402175256" expanded="true" signature="5834:5967" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/barcode-form-search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7352941">
+          <caret line="112" column="65" selection-start-line="112" selection-start-column="65" selection-end-line="112" selection-end-column="65" />
+          <folding>
+            <marker date="1528407096384" expanded="true" signature="801:1049" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/barcode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.1470585">
+          <caret line="118" column="65" selection-start-line="118" selection-start-column="65" selection-end-line="118" selection-end-column="65" />
+          <folding>
+            <marker date="1528407149030" expanded="true" signature="332:378" placeholder="SELECT role ..users..." />
+            <marker date="1528407149030" expanded="true" signature="1408:1656" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/barcode-edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05235602">
+          <caret line="188" column="65" selection-start-line="188" selection-start-column="65" selection-end-line="188" selection-end-column="65" />
+          <folding>
+            <marker date="1528407193464" expanded="true" signature="332:378" placeholder="SELECT role ..users..." />
+            <marker date="1528407193464" expanded="true" signature="1084:1216" placeholder="SELECT id, b..barcodeDetails..." />
+            <marker date="1528407193464" expanded="true" signature="3366:3422" placeholder="Update barco..." />
+            <marker date="1528407193464" expanded="true" signature="3968:4158" placeholder="Update barco..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

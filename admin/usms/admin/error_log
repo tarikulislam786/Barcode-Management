@@ -1,0 +1,145 @@
+[04-Jun-2018 08:50:12 UTC] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/index.php on line 2
+[04-Jun-2018 08:50:12 UTC] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/index.php on line 2
+[04-Jun-2018 08:50:12 UTC] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/tmp:/home') in /home/chem/public_html/usms/admin/index.php on line 2
+[04-Jun-2018 08:53:14 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/chem/public_html/usms/admin/index.php on line 9
+[04-Jun-2018 08:53:14 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/chem/public_html/usms/admin/index.php on line 9
+[04-Jun-2018 08:53:14 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/chem/public_html/usms/admin/index.php on line 10
+[04-Jun-2018 08:53:14 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/chem/public_html/usms/admin/index.php on line 10
+[04-Jun-2018 08:53:14 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/chem/public_html/usms/admin/index.php on line 11
+[04-Jun-2018 08:53:14 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/chem/public_html/usms/admin/index.php on line 11
+[04-Jun-2018 08:53:14 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/chem/public_html/usms/admin/index.php on line 12
+[04-Jun-2018 08:53:14 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/chem/public_html/usms/admin/index.php on line 12
+[04-Jun-2018 08:53:14 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/chem/public_html/usms/admin/index.php on line 13
+[04-Jun-2018 08:53:14 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/chem/public_html/usms/admin/index.php on line 13
+[04-Jun-2018 08:53:14 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/chem/public_html/usms/admin/index.php on line 14
+[04-Jun-2018 08:53:14 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/chem/public_html/usms/admin/index.php on line 14
+[04-Jun-2018 08:53:14 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/chem/public_html/usms/admin/index.php on line 15
+[04-Jun-2018 08:53:14 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/chem/public_html/usms/admin/index.php on line 15
+[04-Jun-2018 08:53:14 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user ''@'localhost' (using password: NO) in /home/chem/public_html/usms/admin/index.php on line 16
+[04-Jun-2018 08:53:14 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/chem/public_html/usms/admin/index.php on line 16
+[04-Jun-2018 09:25:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '111222333' for key 'barcode'' in /home/chem/public_html/usms/admin/index.php:28
+Stack trace:
+#0 /home/chem/public_html/usms/admin/index.php(28): PDO->exec('INSERT INTO `ba...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/index.php on line 28
+[04-Jun-2018 09:55:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '112233' for key 'barcode'' in /home/chem/public_html/usms/admin/index.php:24
+Stack trace:
+#0 /home/chem/public_html/usms/admin/index.php(24): PDO->exec('INSERT INTO `ba...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/index.php on line 24
+[04-Jun-2018 10:00:21 UTC] PHP Warning:  move_uploaded_file(/home/chem/public_html/uploads/flower.jpg): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/index.php on line 27
+[04-Jun-2018 10:00:21 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php4ypSpC' to '/home/chem/public_html/uploads/flower.jpg' in /home/chem/public_html/usms/admin/index.php on line 27
+[04-Jun-2018 10:06:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '112233' for key 'barcode'' in /home/chem/public_html/usms/admin/index.php:24
+Stack trace:
+#0 /home/chem/public_html/usms/admin/index.php(24): PDO->exec('INSERT INTO `ba...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/index.php on line 24
+[05-Jun-2018 07:48:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/chem/public_html/usms/admin/home.php:2) in /home/chem/public_html/usms/admin/home.php on line 3
+[05-Jun-2018 07:48:03 UTC] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/header.php on line 2
+[05-Jun-2018 07:48:03 UTC] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/header.php on line 2
+[05-Jun-2018 07:48:03 UTC] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/tmp:/home') in /home/chem/public_html/usms/admin/header.php on line 2
+[05-Jun-2018 07:48:03 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/header.php on line 3
+[05-Jun-2018 07:48:03 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/header.php on line 3
+[05-Jun-2018 07:48:03 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/tmp:/home') in /home/chem/public_html/usms/admin/header.php on line 3
+[05-Jun-2018 07:48:03 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/chem/public_html/usms/admin/header.php on line 12
+[05-Jun-2018 07:51:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/chem/public_html/usms/admin/home.php:2) in /home/chem/public_html/usms/admin/home.php on line 3
+[05-Jun-2018 07:51:20 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/header.php on line 3
+[05-Jun-2018 07:51:20 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/header.php on line 3
+[05-Jun-2018 07:51:20 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/tmp:/home') in /home/chem/public_html/usms/admin/header.php on line 3
+[05-Jun-2018 07:51:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'first_name' in 'field list'' in /home/chem/public_html/usms/admin/header.php:12
+Stack trace:
+#0 /home/chem/public_html/usms/admin/header.php(12): PDO->query('SELECT first_na...')
+#1 /home/chem/public_html/usms/admin/home.php(12): include('/home/chem/publ...')
+#2 {main}
+  thrown in /home/chem/public_html/usms/admin/header.php on line 12
+[05-Jun-2018 07:53:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/chem/public_html/usms/admin/home.php:2) in /home/chem/public_html/usms/admin/home.php on line 3
+[05-Jun-2018 07:53:02 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/header.php on line 3
+[05-Jun-2018 07:53:02 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/header.php on line 3
+[05-Jun-2018 07:53:02 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/tmp:/home') in /home/chem/public_html/usms/admin/header.php on line 3
+[05-Jun-2018 07:54:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/chem/public_html/usms/admin/home.php:2) in /home/chem/public_html/usms/admin/home.php on line 3
+[05-Jun-2018 07:54:14 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/header.php on line 3
+[05-Jun-2018 07:54:14 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/header.php on line 3
+[05-Jun-2018 07:54:14 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/tmp:/home') in /home/chem/public_html/usms/admin/header.php on line 3
+[05-Jun-2018 08:55:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chem_usms.categories' doesn't exist' in /home/chem/public_html/usms/admin/barcode.php:276
+Stack trace:
+#0 /home/chem/public_html/usms/admin/barcode.php(276): PDO->query('select `id`, `c...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/barcode.php on line 276
+[05-Jun-2018 09:45:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chem_usms.categories' doesn't exist' in /home/chem/public_html/usms/admin/barcode.php:276
+Stack trace:
+#0 /home/chem/public_html/usms/admin/barcode.php(276): PDO->query('select `id`, `c...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/barcode.php on line 276
+[05-Jun-2018 10:37:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '321444' for key 'barcode'' in /home/chem/public_html/usms/admin/barcode.php:73
+Stack trace:
+#0 /home/chem/public_html/usms/admin/barcode.php(73): PDO->exec('INSERT INTO `ba...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/barcode.php on line 73
+[05-Jun-2018 11:32:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/chem/public_html/usms/admin/barcode-manage.php:2) in /home/chem/public_html/usms/admin/barcode-manage.php on line 3
+[05-Jun-2018 11:32:30 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/header.php on line 3
+[05-Jun-2018 11:32:30 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/header.php on line 3
+[05-Jun-2018 11:32:30 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/tmp:/home') in /home/chem/public_html/usms/admin/header.php on line 3
+[05-Jun-2018 11:32:30 UTC] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/barcode-manage.php on line 13
+[05-Jun-2018 11:32:30 UTC] PHP Warning:  include(dbconnect.php): failed to open stream: No such file or directory in /home/chem/public_html/usms/admin/barcode-manage.php on line 13
+[05-Jun-2018 11:32:30 UTC] PHP Warning:  include(): Failed opening 'dbconnect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php:/tmp:/home') in /home/chem/public_html/usms/admin/barcode-manage.php on line 13
+[05-Jun-2018 11:32:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chem_usms.authors' doesn't exist' in /home/chem/public_html/usms/admin/barcode-manage.php:96
+Stack trace:
+#0 /home/chem/public_html/usms/admin/barcode-manage.php(96): PDO->query('select `author_...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/barcode-manage.php on line 96
+[06-Jun-2018 05:57:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chem_usms.authors' doesn't exist' in /home/chem/public_html/usms/admin/barcode-manage.php:91
+Stack trace:
+#0 /home/chem/public_html/usms/admin/barcode-manage.php(91): PDO->query('select `author_...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/barcode-manage.php on line 91
+[06-Jun-2018 06:14:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chem_usms.authors' doesn't exist' in /home/chem/public_html/usms/admin/barcode-manage.php:91
+Stack trace:
+#0 /home/chem/public_html/usms/admin/barcode-manage.php(91): PDO->query('select `author_...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/barcode-manage.php on line 91
+[06-Jun-2018 06:14:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chem_usms.authors' doesn't exist' in /home/chem/public_html/usms/admin/barcode-manage.php:91
+Stack trace:
+#0 /home/chem/public_html/usms/admin/barcode-manage.php(91): PDO->query('select `author_...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/barcode-manage.php on line 91
+[06-Jun-2018 06:17:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chem_usms.authors' doesn't exist' in /home/chem/public_html/usms/admin/barcode-manage.php:91
+Stack trace:
+#0 /home/chem/public_html/usms/admin/barcode-manage.php(91): PDO->query('select `author_...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/barcode-manage.php on line 91
+[06-Jun-2018 06:17:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chem_usms.authors' doesn't exist' in /home/chem/public_html/usms/admin/barcode-manage.php:91
+Stack trace:
+#0 /home/chem/public_html/usms/admin/barcode-manage.php(91): PDO->query('select `author_...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/barcode-manage.php on line 91
+[06-Jun-2018 07:32:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: trying to execute an empty query' in /home/chem/public_html/usms/admin/barcode-edit.php:19
+Stack trace:
+#0 /home/chem/public_html/usms/admin/barcode-edit.php(19): PDO->exec('')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/barcode-edit.php on line 19
+[06-Jun-2018 08:24:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1' in /home/chem/public_html/usms/admin/barcode-edit.php:112
+Stack trace:
+#0 /home/chem/public_html/usms/admin/barcode-edit.php(112): PDO->query('Update users se...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/barcode-edit.php on line 112
+[06-Jun-2018 08:25:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'barcode'' in /home/chem/public_html/usms/admin/barcode-edit.php:90
+Stack trace:
+#0 /home/chem/public_html/usms/admin/barcode-edit.php(90): PDO->query('Update barcodeD...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/barcode-edit.php on line 90
+[06-Jun-2018 08:27:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'barcode'' in /home/chem/public_html/usms/admin/barcode-edit.php:90
+Stack trace:
+#0 /home/chem/public_html/usms/admin/barcode-edit.php(90): PDO->query('Update barcodeD...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/barcode-edit.php on line 90
+[06-Jun-2018 08:28:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'barcode'' in /home/chem/public_html/usms/admin/barcode-edit.php:90
+Stack trace:
+#0 /home/chem/public_html/usms/admin/barcode-edit.php(90): PDO->query('Update barcodeD...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/barcode-edit.php on line 90
+[06-Jun-2018 08:38:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'barcode'' in /home/chem/public_html/usms/admin/barcode-edit.php:89
+Stack trace:
+#0 /home/chem/public_html/usms/admin/barcode-edit.php(89): PDO->query('Update barcodeD...')
+#1 {main}
+  thrown in /home/chem/public_html/usms/admin/barcode-edit.php on line 89
+[06-Jun-2018 09:28:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/chem/public_html/usms/admin/barcode-edit.php on line 114
